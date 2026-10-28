@@ -4,19 +4,15 @@
 
 APC Vehicle Tracker is a web application for APC Cars that tracks used-vehicle stock across locations. Staff sign in, search stock, view each vehicle's movement history, log movements between locations and view stock reports. Admins and stock controllers manage vehicles and images, and admins manage staff accounts.
 
-**Live site:** https://apcvt-web-ckbmcze0hhbehwc6.germanywestcentral-01.azurewebsites.net/
-**Repository:** https://github.com/CraftyCrustacean/INSY7315-2026-APC
-**Group Presentation:** https://youtu.be/FJ4KDnzZqvc
-
 ## Team and features
 
-| Feature | Owner | Student number |
-|---|---|---|
-| 1. Authentication, user admin, GitHub, and hosting | Zachary Handley | ST10435382 |
+| Feature | Owner |
+|---|---|
+| 1. Authentication, user admin, GitHub, and hosting | Zachary Handley |
 | 2. Vehicle search | Ritvik Maharaj | ST10438117 |
-| 3. Log a movement | Saheel Ramone Bhugwandeen | ST10440943 |
+| 3. Log a movement | Saheel Ramone Bhugwandeen |
 | 4. Reports | Esethu Lushaba | ST10447469 |
-| 5. Vehicle CRUD and image upload | Chase Miller | ST10433939 |
+| 5. Vehicle CRUD and image upload | Chase Miller |
 
 ## Tech stack
 
